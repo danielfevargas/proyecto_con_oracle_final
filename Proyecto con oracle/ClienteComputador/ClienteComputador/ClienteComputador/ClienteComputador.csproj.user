@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="GUIActualizarComputador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUIAgregarComputador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUIBuscarComputador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUIEliminarComputador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUIListarComputador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
